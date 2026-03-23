@@ -4,6 +4,8 @@ Decision intelligence for AI assistants via [Model Context Protocol](https://mod
 
 Connect Claude, ChatGPT, and other AI assistants to your product backlog. Capture feedback, track decisions, and manage ideas without leaving your AI workflow.
 
+[![IdeaLift Server MCP server](https://glama.ai/mcp/servers/Startvest-LLC/idealift-mcp-server/badges/card.svg)](https://glama.ai/mcp/servers/Startvest-LLC/idealift-mcp-server)
+
 ## What it does
 
 - **Normalize ideas** — Transform raw text into structured feature requests, bug reports, or tasks
