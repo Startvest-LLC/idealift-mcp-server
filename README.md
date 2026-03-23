@@ -1,6 +1,10 @@
 # IdeaLift MCP Server
 
+[![idealift-mcp-server MCP server](https://glama.ai/mcp/servers/Startvest-LLC/idealift-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/Startvest-LLC/idealift-mcp-server)
+
 Decision intelligence for AI assistants via [Model Context Protocol](https://modelcontextprotocol.io).
+
+[![idealift-mcp-server MCP server](https://glama.ai/mcp/servers/Startvest-LLC/idealift-mcp-server/badges/card.svg)](https://glama.ai/mcp/servers/Startvest-LLC/idealift-mcp-server)
 
 Connect Claude, ChatGPT, and other AI assistants to your product backlog. Capture feedback, track decisions, and manage ideas without leaving your AI workflow.
 
