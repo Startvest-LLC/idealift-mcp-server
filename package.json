@@ -14,18 +14,23 @@
     "start:stdio": "node dist/stdio.js"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.12.0",
-    "cors": "^2.8.5",
-    "express": "^4.21.0",
+    "@modelcontextprotocol/sdk": "^1.27.1",
+    "cors": "^2.8.6",
+    "express": "^4.22.1",
     "mssql": "^10.0.4",
-    "zod": "^3.23.8"
+    "zod": "^3.25.76"
+  },
+  "pnpm": {
+    "overrides": {
+      "@azure/identity": ">=4.2.1"
+    }
   },
   "devDependencies": {
     "@types/cors": "^2.8.19",
-    "@types/express": "^4.17.21",
-    "@types/mssql": "^9.1.8",
-    "@types/node": "^20.14.0",
-    "tsx": "^4.19.0",
-    "typescript": "^5.5.0"
+    "@types/express": "^4.17.25",
+    "@types/mssql": "^9.1.9",
+    "@types/node": "^20.19.37",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
   }
 }
